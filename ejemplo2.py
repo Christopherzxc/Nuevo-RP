@@ -6,7 +6,7 @@ def max_de_tres (n1, n2, n3):
     elif n3 > n1 and n3 > n2:
         print (n3)
     else:
-        print ("Son iguales")
+        print ("Los numeros son iguales")
 
 max_de_tres(3, 5, 9)
 
